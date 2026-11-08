@@ -1,0 +1,21 @@
+.container1{
+    width: 500px;
+    height: 400px;
+    border: 20px solid red;
+    padding: 10px 20px 5px 2px;
+    color: white;
+    text-align: center;
+    background: linear-gradient(to right,navy,skyblue,navy);
+
+}
+.container2{
+    width: 300px;
+    height: 200px;
+    border: 1em  solid black;
+    padding: 50px 10px 5px 5px;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    background: linear-gradient(to right,navy,skyblue,navy);
+
+}
