@@ -1,0 +1,21 @@
+div p{
+    color: red;
+    font-size: 30px;
+    
+}
+span>p{
+    color: red;
+    font-size: 30px;
+    
+}
+
+h1 + p{
+    color: red;
+    font-size: 30px;
+    
+}
+h2~p{
+    color: red;
+    font-size: 30px;
+
+}
